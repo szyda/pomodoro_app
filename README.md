@@ -1,7 +1,7 @@
 ![GitHub Logo](icons.png)
 # **Pomodoro - simple app for productivity** #
 
-## Required ##
+## Requirements ##
 1. Rumps - https://github.com/jaredks/rumps
 ```python 
 pip install rumps
