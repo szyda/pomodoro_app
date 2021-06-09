@@ -1,1 +1,3 @@
-The Pomodoro App for Mac OS
+# **Pomodoro** #
+![GitHub Logo](icons.png)
+Format: ![Alt Text](url)
