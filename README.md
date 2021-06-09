@@ -1,3 +1,3 @@
 ![GitHub Logo](icons.png)
-# **Pomodoro** #
+# **Pomodoro - simple app for productivity ** #
 
