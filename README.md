@@ -10,3 +10,5 @@ pip install rumps
 ```python 
 pip install -U py2app
 ```
+## Appearance ##
+![GitHub Logo](screenshots/first.png)
