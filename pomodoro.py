@@ -1,5 +1,6 @@
 import rumps
-import pync
+import  pkg_resources.py2_warn
+
 
 class PomodoroApp(object):
     def __init__(self):
@@ -10,7 +11,7 @@ class PomodoroApp(object):
             "continue": "Continue Timer",
             "stop": "Stop Timer",
             "break_message": "Time is up! Take a break :)",
-            "interval": 3
+            "interval": 1500
         }
         self.app = rumps.App(self.config["app_name"])
         self.timer = rumps.Timer(self.on_tick, 1)
@@ -58,6 +59,8 @@ class PomodoroApp(object):
     def run(self):
         self.app.run()
 
+
 if __name__ == '__main__':
     app = PomodoroApp()
     app.run()
+    
