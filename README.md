@@ -17,4 +17,8 @@ pip install -U py2app
 ![GitHub Logo](screenshots/second.png)
 ![GitHub Logo](screenshots/third.png)
 
-
+## Installatiom ##
+```python 
+python setup.py py2app
+```
+After installation the aplication will be in ./dist/ 
