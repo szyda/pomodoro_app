@@ -6,3 +6,7 @@
 ```python 
 pip install rumps
 ```
+2. Py2app - https://py2app.readthedocs.io/en/latest/
+```python 
+pip install -U py2app
+```
