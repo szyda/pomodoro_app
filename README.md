@@ -1,1 +1,1 @@
-# pomodoro_app
+The Pomodoro App for Mac OS
