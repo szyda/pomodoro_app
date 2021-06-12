@@ -17,7 +17,7 @@ pip install -U py2app
 ![GitHub Logo](screenshots/second.png)
 ![GitHub Logo](screenshots/third.png)
 
-## Installatiom ##
+## Installation ##
 ```python 
 python setup.py py2app
 ```
