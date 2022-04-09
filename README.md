@@ -21,4 +21,4 @@ pip install -U py2app
 ```python 
 python setup.py py2app
 ```
-After installation the aplication will be in ./dist/ 
+After installation the application will be in ./dist/ directory.
